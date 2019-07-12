@@ -111,7 +111,7 @@ Please use this staging servers or (better) setup a local server:
   - Tries to reproduce the issue
   - Discuss results and possible impact to determine the score (low/medium/high/critical) and bounty amount
 - Reporter is rewarded with a bounty at this stage (if applicable)
-- Team work on a fix, verify it an pushes it
+- Team work on a fix, verify it and pushes it
 - Team confirm that the issue has been patched and may ask reporter to confirm the fix
 
 ## How do we calculate the severity score
