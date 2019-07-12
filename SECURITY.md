@@ -109,7 +109,7 @@ Please use this staging servers or (better) setup a local server:
 - Open Collective Team...
   - Confirm that the report has been received
   - Tries to reproduce the issue
-  - Discuss results and possible impact to detemine the score (low/medium/high/critical) and bounty amount
+  - Discuss results and possible impact to determine the score (low/medium/high/critical) and bounty amount
 - Reporter is rewarded with a bounty at this stage (if applicable)
 - Team work on a fix, verify it an pushes it
 - Team confirm that the issue has been patched and may ask reporter to confirm the fix
