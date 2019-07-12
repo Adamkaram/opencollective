@@ -32,7 +32,7 @@ We provide staging servers with a very similar configuration on the following UR
 - API: https://api-staging.opencollective.com
 - Frontend: https://staging.opencollective.com
 - Invoices: https://invoices-staging.opencollective.com
-- Images: https://images.opencollective.com
+- Images: https://images-staging.opencollective.com
 
 Please use this staging servers or (better) setup a local server:
 
